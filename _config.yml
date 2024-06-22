@@ -21,7 +21,7 @@ repository               : "XiangboYin/xiangboyin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yxb-profile.png"
+  avatar           : "yxb-profile.jpg"
   name             : "Xiangbo Yin"
   pronouns         : # example: "she/her"  
   bio              : "Research Interests: Person Re-identification. "
