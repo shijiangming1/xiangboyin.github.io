@@ -3,20 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Honors and Awards"
-    url: /honors-awards/   
+  - title: "Academic Services"
+    url: /services/ 
 
-  - title: "Services"
-    url: /services/    
+  - title: "Honors and Awards"
+    url: /honors-awards/      
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Experience"
+    url: /experiencr/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Concat"
+    url: /concat/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
