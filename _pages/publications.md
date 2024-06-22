@@ -12,6 +12,7 @@ author_profile: true
 {% endif %}
 
 📝 Select Publications
+======
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
             <tbody>
@@ -29,7 +30,6 @@ author_profile: true
                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416">Paper</a>][<a href="https://github.com/shijiangming1/CLIP2FL">Code</a>]
                 </td>
               </tr>
-              <hr>
               <tr>
                 <td class="noBorder" width="40%">
                     <img width="320" src="{{ base_path }}/images/DPIS.png" alt="CLIP2FL" style="border:0px">
