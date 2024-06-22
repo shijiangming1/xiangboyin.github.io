@@ -18,6 +18,9 @@ table, th, td {
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<br>
+<br>
+
 📝 Select Publications
 ======
 <font face="helvetica, ariel, &#39;sans serif&#39;">
