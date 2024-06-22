@@ -15,12 +15,12 @@ My name is Xiangbo Yin (尹祥博), I received the B.E. degree from the Faculty 
 ======
 <ul>
   <li>
-    <strong><i>2023.11:</i></strong> 🎉 One paper is accepted by AAAI 2024.
+    <strong><i>2023.12:</i></strong> 🎉 One paper is accepted by AAAI 2024.
   </li>
     <li>
     <strong><i>2023.10:</i></strong> 🎉 One paper is awarded as Best Paper by CCHI 2023.
   </li>
   <li>
-    <strong><i>2023.06:</i></strong> 🎉 One paper is accepted by ICCV 2023.
+    <strong><i>2023.07:</i></strong> 🎉 One paper is accepted by ICCV 2023.
   </li>
 </ul>
