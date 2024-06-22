@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "👀Concat"
+title: "👀 Concat"
 permalink: /concat/
 author_profile: true
 ---
