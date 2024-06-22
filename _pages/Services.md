@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "📚Academic Services"
+title: "📚 Academic Services"
 permalink: /services/
 author_profile: true
 ---
 
-Conference Reviewer
-===
+## Conference Reviewer
 <ul>
     <li></li>
     <li></li>
@@ -14,7 +13,7 @@ Conference Reviewer
 </ul>
 
 
-Journal Reviewer
+## Journal Reviewer
 ===
 <ul>
     <li></li>
