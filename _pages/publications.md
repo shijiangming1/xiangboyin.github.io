@@ -22,6 +22,15 @@ author_profile: true
   </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/DPIS.png' alt="DPIS" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)
+
+  Jiangming Shi, Yachao Zhang, Xiangbo Yin, Yuan Xie, Zhizhong Zhang, Jianping Fang, Zhongchao Shi, Yanyun Qu
+  </div>
+</div>
+
 <!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
