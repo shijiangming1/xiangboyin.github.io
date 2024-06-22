@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+}
+</style>
+
 {% include base_path %}
 
 {% if site.author.googlescholar %}
