@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Xiangbo Yin(尹祥博)"
+title: "👨 About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👨 About me
 ======
 My name is Xiangbo Yin (尹祥博), I received the B.E. degree from the Faculty of Information Engineering and Automation, Kunming University of Science and Technology in 2023. Now I'm a Master's student at the School of Informatics, Xiamen University, supervised by Yanyun Qu (曲延云). My research interests are deep learning and computer vision algorithms, such as person re-identification.
 
