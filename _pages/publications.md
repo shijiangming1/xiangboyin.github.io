@@ -19,16 +19,15 @@ table, th, td {
 {% endif %}
 
 <br>
-<br>
 
 📝 Select Publications
 ======
 <font face="helvetica, ariel, &#39;sans serif&#39;">
-        <table cellspacing="0" cellpadding="0" class="noBorder">
+        <table cellspacing="0" cellpadding="0" class="noBorder" style="text-align:center">
             <tbody>
               <tr>
                 <td class="noBorder" width="40%">
-                    <img width="320" src="{{ base_path }}/images/CLIP2FL.png" alt="CLIP2FL" style="border:0px">
+                    <img width="400" src="{{ base_path }}/images/CLIP2FL.png" alt="CLIP2FL" style="border:0px">
                 </td>
                 <td>
                   <b>[CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data](https://ojs.aaai.org/index.php/AAAI/article/view/29416)</b>
@@ -42,7 +41,7 @@ table, th, td {
               </tr>
               <tr>
                 <td class="noBorder" width="40%">
-                    <img width="320" src="{{ base_path }}/images/DPIS.png" alt="CLIP2FL" style="border:0px">
+                    <img width="400" src="{{ base_path }}/images/DPIS.png" alt="CLIP2FL" style="border:0px">
                 </td>
                 <td>
                   <b>[Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)</b>
