@@ -12,7 +12,6 @@ author_profile: true
 {% endif %}
 
 📝 Select Publications
-======
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
             <tbody>
