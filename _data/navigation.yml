@@ -15,5 +15,5 @@ main:
   - title: "Concat"
     url: /concat/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
