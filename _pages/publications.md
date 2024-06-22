@@ -27,7 +27,7 @@ table, th, td {
             <tbody>
               <tr>
                 <td class="noBorder" width="40%">
-                    <img width="400" src="{{ base_path }}/images/CLIP2FL.png" alt="CLIP2FL" style="border:0px">
+                    <img width="360" src="{{ base_path }}/images/CLIP2FL.png" alt="CLIP2FL" style="border:0px">
                 </td>
                 <td>
                   <b>CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data</b>
@@ -41,7 +41,7 @@ table, th, td {
               </tr>
               <tr>
                 <td class="noBorder" width="40%">
-                    <img width="400" src="{{ base_path }}/images/DPIS.png" alt="CLIP2FL" style="border:0px">
+                    <img width="360" src="{{ base_path }}/images/DPIS.png" alt="CLIP2FL" style="border:0px">
                 </td>
                 <td>
                   <b>Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification</b>
