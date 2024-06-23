@@ -4,6 +4,7 @@ title: "👨🏻‍💻 Experience"
 permalink: /experience/
 author_profile: true
 ---
+<hr>
 
 ## 🎓 Education
 <hr>
@@ -20,3 +21,4 @@ author_profile: true
 
 
 ## 💼 Work
+<hr>
