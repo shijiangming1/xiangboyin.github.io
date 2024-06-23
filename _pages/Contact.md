@@ -17,7 +17,7 @@ table.no-horizontal-lines th {
 }
 </style>
 
-<table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto; font-size:30">
+<table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto">
 	<tr>
 		<td>
 			<strong>Contact Information:<strong> <br> 
