@@ -26,7 +26,7 @@ table.no-horizontal-lines th {
 			<a href="mailto:xiangboyin@stu.xmu.edu.cn" class="no-underline">xiangboyin@stu.xmu.edu.cn</a> | 
 		</td>
 		<td>
-			<iframe width="450" height="220" src="https://www.openstreetmap.org/export/embed.html?bbox=118.26936721801759%2C24.59629971284382%2C118.32047939300539%2C24.627356839716075&amp;layer=mapnik" style="border: 0"></iframe>
+			<iframe width="4250" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=118.2916831970215%2C24.602581989987005%2C118.31723928451538%2C24.61811073760338&amp;layer=mapnik" style="border: 0"></iframe>
 		</td>
 	</tr>
 </table>
