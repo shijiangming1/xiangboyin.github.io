@@ -51,7 +51,7 @@ table, th, td {
                   <br>
                   <em> IEEE Conference on International Conference on Computer Vision (ICCV 2023) </em>
                   <br>
-                  [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf">Paper link</a>]&nbsp;&nbsp;[<a href="https://github.com/shijiangming1/DPIS">Code link</a>]&nbsp;&nbsp;[<a href="{{ base_path }}/images/ciation.md">Ciation link</a>]
+                  [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf">Paper link</a>]&nbsp;&nbsp;[<a href="https://github.com/shijiangming1/DPIS">Code link</a>]&nbsp;&nbsp;[<a href="{{ base_path }}/ciation/ciation.md">Ciation link</a>]
                 </td>
               </tr>            
             </tbody>
