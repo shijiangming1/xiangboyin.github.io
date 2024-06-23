@@ -24,7 +24,7 @@ table.no-horizontal-lines th {
 			    <strong>Contact Information:</strong>
             </div>
 			<strong>Work Address:</strong> <br>     
-			Room 403, Building 5, School of Informatics, Xiang'an Campus, Xiamen University, Xiamen Fujian 361005, China. <br>  
+			Room 403, Building 5, School of Informatics, Xiang'an Campus,<br> Xiamen University, Xiamen Fujian 361005, China. <br>  
 			<strong>Phone:</strong> 
 			<a href="{{ base_path }}/images/weixin.jpg" class="no-underline">18506923951</a> <br>   
 			<strong>E-mail:</strong>   
