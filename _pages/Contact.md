@@ -19,8 +19,8 @@ table.no-horizontal-lines th {
 <hr>
 <table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto; border: 0px;">
 	<tr>
-		<td style="font-size: 20px">
-            <div style="font-size:30px">
+		<td style="font-size: 16px">
+            <div style="font-size:20px">
 			    <strong>Contact Information:</strong>
             </div>
 			<strong>Work Address:</strong> <br>     
