@@ -33,7 +33,7 @@ table, th, td {
                 <td>
                   <b>CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data</b>
                   <br>
-                  Jiangming Shi, ShanShan Zheng, Xiangbo Yin, Yang Lu, Yuan Xie†, Yanyun Qu†
+                  Jiangming Shi, ShanShan Zheng, <b><i>Xiangbo Yin</i></b>, Yang Lu, Yuan Xie†, Yanyun Qu†
                   <br>
                   <em> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2024)</em>
                   <br>
@@ -47,7 +47,7 @@ table, th, td {
                 <td>
                   <b>Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification</b>
                   <br>
-                  Jiangming Shi*, Yachao Zhang*, Xiangbo Yin, Yuan Xie†, Zhizhong Zhang, Jianping Fang, Zhongchao Shi, Yanyun Qu†
+                  Jiangming Shi*, Yachao Zhang*, <b><i>Xiangbo Yin</i></b>, Yuan Xie†, Zhizhong Zhang, Jianping Fang, Zhongchao Shi, Yanyun Qu†
                   <br>
                   <em> IEEE Conference on International Conference on Computer Vision (ICCV 2023) </em>
                   <br>
