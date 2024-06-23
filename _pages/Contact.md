@@ -16,7 +16,7 @@ table.no-horizontal-lines th {
     border: none;
 }
 </style>
-
+<hr>
 <table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto; border: 0px;">
 	<tr>
 		<td style="font-size: 20px">
