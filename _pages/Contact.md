@@ -5,6 +5,14 @@ permalink: /contact/
 author_profile: true
 ---
 
+table.no-horizontal-lines {
+    border-collapse: collapse;
+}
+table.no-horizontal-lines td, 
+table.no-horizontal-lines th {
+    border: none;
+}
+
 <table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto;">
 	<tr>
 		<td>
@@ -20,7 +28,7 @@ author_profile: true
 			<a href="mailto:neard.ws@gmail.com" class="no-underline">neard.ws@Gmail</a>
 		</td>
 		<td>
-			<iframe width="450" height="220" src="https://www.openstreetmap.org/export/embed.html?bbox=114.02656316757204%2C22.723049810086813%2C114.05134677886964%2C22.735963602484535&amp;layer=mapnik" style="border: 0"></iframe>
+			<iframe width="450" height="220" src="https://www.openstreetmap.org/export/embed.html?bbox=118.26936721801759%2C24.59629971284382%2C118.32047939300539%2C24.627356839716075&amp;layer=mapnik" style="border: 0"></iframe>
 		</td>
 	</tr>
 </table>
