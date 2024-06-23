@@ -22,7 +22,6 @@ table, th, td {
 <br>
 
 # 📝 Select Publications
-[![](https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080)](https://neardws-1257861591.cos.ap-shanghai.myqcloud.com/neardws/bib/xu2023cooperative.bib) [![](https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data.json&query=$['publications']['DK5avZUAAAAJ:LjlpjdlvIbIC']['num_citations']&labelColor=f6f6f6&color=9cf&style=flat&label=Citations)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DK5avZUAAAAJ&citation_for_view=DK5avZUAAAAJ:LjlpjdlvIbIC) [![](https://img.shields.io/github/stars/neardws/Multi-Agent-Deep-Reinforcement-Learning?style=social)](https://github.com/neardws/Multi-Agent-Deep-Reinforcement-Learning)
 <hr>
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder" style="text-align:center">
@@ -39,6 +38,8 @@ table, th, td {
                   <em> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2024)</em>
                   <br>
                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416">Paper link</a>]&nbsp;&nbsp;[<a href="https://github.com/shijiangming1/CLIP2FL">Code link</a>]&nbsp;&nbsp;[<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:PemHNATh384J:scholar.google.com/&output=citation&scisdr=ClHdB0SEEP6tr8SUBRg:AFWwaeYAAAAAZneSHRgl5GvoPQJsl4wE1YNXtaE&scisig=AFWwaeYAAAAAZneSHa_DT0AlUVMn6AtV90XYG-s&scisf=4&ct=citation&cd=-1&hl=zh-CN">Ciation link</a>]
+
+                  [![](https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080)](https://neardws-1257861591.cos.ap-shanghai.myqcloud.com/neardws/bib/xu2023cooperative.bib) [![](https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data.json&query=$['publications']['DK5avZUAAAAJ:LjlpjdlvIbIC']['num_citations']&labelColor=f6f6f6&color=9cf&style=flat&label=Citations)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DK5avZUAAAAJ&citation_for_view=DK5avZUAAAAJ:LjlpjdlvIbIC) [![](https://img.shields.io/github/stars/neardws/Multi-Agent-Deep-Reinforcement-Learning?style=social)](https://github.com/neardws/Multi-Agent-Deep-Reinforcement-Learning)
                 </td>
               </tr>
               <tr>
