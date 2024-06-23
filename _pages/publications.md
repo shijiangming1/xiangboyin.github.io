@@ -40,7 +40,7 @@ table, th, td {
                   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416"><img src="https://img.shields.io/badge/-Paper-blue?logo=microsoftpowerpoint&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:u-x6o8ySG0sC"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:u-x6o8ySG0sC%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/shijiangming1/CLIP2FL"><img src="https://img.shields.io/github/stars/shijiangming1/CLIP2FL?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
-                  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:PemHNATh384J:scholar.google.com/&output=citation&scisdr=ClHdB0SBEP6tr8SZqXg:AFWwaeYAAAAAZnefsXiDMDlnWpFcatklV93BcIk&scisig=AFWwaeYAAAAAZnefscWLI3msJdA_WgGkIXh2PGM&scisf=4&ct=citation&cd=-1&hl=zh-CN"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>
+                  <a href="{{ base_path }}/ciations/CLIP2FL.md"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>
                 </td>
               </tr>
               <tr>
