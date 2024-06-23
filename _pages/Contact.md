@@ -17,10 +17,10 @@ table.no-horizontal-lines th {
 }
 </style>
 
-<table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto;">
+<table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto; font-size:30">
 	<tr>
 		<td>
-			<h3>Contact Information:</h3> <br> 
+			<strong>Contact Information:<strong> <br> 
 			<strong>Work Address:</strong> <br>     
 			Room 403, Building 5, School of Informatics, Xiang'an Campus, Xiamen University, Xiamen Fujian 361005, China. <br>  
 			<strong>Phone:</strong> 
