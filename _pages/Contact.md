@@ -31,7 +31,7 @@ table.no-horizontal-lines th {
 			<a href="mailto:xiangboyin@stu.xmu.edu.cn" class="no-underline">xiangboyin@stu.xmu.edu.cn</a>
 		</td>
 		<td style="text-align: center">
-			<iframe width="450" height="300" src="https://www.openstreetmap.org/export/embed.html?bbox=118.2916831970215%2C24.602581989987005%2C118.31723928451538%2C24.61811073760338&amp;layer=mapnik" style="border: 0"></iframe>
+			<iframe width="450" height="250" src="https://www.openstreetmap.org/export/embed.html?bbox=118.2916831970215%2C24.602581989987005%2C118.31723928451538%2C24.61811073760338&amp;layer=mapnik" style="border: 0"></iframe>
 		</td>
 	</tr>
 </table>
