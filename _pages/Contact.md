@@ -4,6 +4,9 @@ title: "👀 Contact"
 permalink: /contact/
 author_profile: true
 ---
+
+{% include base_path %}
+
 <style>
 table.no-horizontal-lines {
     border-collapse: collapse;
@@ -21,7 +24,7 @@ table.no-horizontal-lines th {
 			<strong>Work Address:</strong> <br>     
 			Room 403, Building 5, School of Informatics, Xiang'an Campus, Xiamen University, Xiamen Fujian 361005, China. <br>  
 			<strong>Phone:</strong> 
-			<a href="tel:+1-6015648240" class="no-underline">click to call</a> <br>   
+			<a href="{{ base_path }}/images/weixin.jpg" class="no-underline">18506923951</a> <br>   
 			<strong>E-mail:</strong>   
 			<a href="mailto:xiangboyin@stu.xmu.edu.cn" class="no-underline">xiangboyin@stu.xmu.edu.cn</a> | 
 		</td>
