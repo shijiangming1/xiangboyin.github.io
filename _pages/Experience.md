@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 🎓 Education
-
+<hr>
 <ul>
     <li>
         <strong><i>2023.09 - 2025.06</i></strong>: Postgraduate student in School of Informatics, Xiamen University，China.
