@@ -14,6 +14,7 @@ table, th, td {
 
 {% include base_path %}
 
+<hr>
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -21,6 +22,7 @@ table, th, td {
 <br>
 
 # 📝 Select Publications
+<hr>
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder" style="text-align:center">
             <tbody>
