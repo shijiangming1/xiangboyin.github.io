@@ -20,7 +20,9 @@ table.no-horizontal-lines th {
 <table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto; border: 0px;">
 	<tr>
 		<td style="font-size: 20px">
-			<strong>Contact Information:</strong> <br> 
+            <div style="font-size:30px">
+			    <strong>Contact Information:</strong>
+            </div>
 			<strong>Work Address:</strong> <br>     
 			Room 403, Building 5, School of Informatics, Xiang'an Campus, Xiamen University, Xiamen Fujian 361005, China. <br>  
 			<strong>Phone:</strong> 
