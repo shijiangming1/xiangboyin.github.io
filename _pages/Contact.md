@@ -4,7 +4,7 @@ title: "👀 Contact"
 permalink: /contact/
 author_profile: true
 ---
-
+<style>
 table.no-horizontal-lines {
     border-collapse: collapse;
 }
@@ -12,6 +12,7 @@ table.no-horizontal-lines td,
 table.no-horizontal-lines th {
     border: none;
 }
+</style>
 
 <table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto;">
 	<tr>
