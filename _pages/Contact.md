@@ -19,7 +19,7 @@ table.no-horizontal-lines th {
 
 <table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto; border: 0px;">
 	<tr>
-		<td>
+		<td style="font-size: 20px">
 			<strong>Contact Information:</strong> <br> 
 			<strong>Work Address:</strong> <br>     
 			Room 403, Building 5, School of Informatics, Xiang'an Campus, <br>Xiamen University, Xiamen Fujian 361005, China. <br>  
@@ -28,8 +28,8 @@ table.no-horizontal-lines th {
 			<strong>E-mail:</strong>   
 			<a href="mailto:xiangboyin@stu.xmu.edu.cn" class="no-underline">xiangboyin@stu.xmu.edu.cn</a>
 		</td>
-		<td>
-			<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=118.2916831970215%2C24.602581989987005%2C118.31723928451538%2C24.61811073760338&amp;layer=mapnik" style="border: 0"></iframe>
+		<td style="text-align: center">
+			<iframe width="450" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=118.2916831970215%2C24.602581989987005%2C118.31723928451538%2C24.61811073760338&amp;layer=mapnik" style="border: 0"></iframe>
 		</td>
 	</tr>
 </table>
