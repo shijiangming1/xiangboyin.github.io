@@ -38,7 +38,7 @@ table, th, td {
                   <em> European Conference on Computer Vision (ECCV 2024)</em>
                   <br>
                   <a href="https://arxiv.org/pdf/2401.06825"><img src="https://img.shields.io/badge/-Paper-blue?logo=microsoftpowerpoint&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
-                  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:d1gkVwhDpl0C"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:d1gkVwhDpl0C][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
+                  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:d1gkVwhDpl0C"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:d1gkVwhDpl0C%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/shijiangming1/MMM"><img src="https://img.shields.io/github/stars/shijiangming1/MMM?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
                   <a href="{{ base_path }}/ciations/MMM.md"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>
                 </td>
