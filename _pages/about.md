@@ -17,6 +17,9 @@ My name is Xiangbo Yin (尹祥博), I received the B.E. degree from the Faculty 
 <hr>
 <ul>
   <li>
+    <strong><i>2024.06:</i></strong> 🎉 One paper is accepted by ECCV 2024.
+  </li>
+  <li>
     <strong><i>2023.12:</i></strong> 🎉 One paper is accepted by AAAI 2024.
   </li>
     <li>
