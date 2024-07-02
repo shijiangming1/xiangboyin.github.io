@@ -31,7 +31,7 @@ table, th, td {
                     <img width="360" src="{{ base_path }}/images/MMM.png" alt="MMM" style="border:0px">
                 </td>
                 <td>
-                  <b>CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data</b>
+                  <b>MMM: Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification</b>
                   <br>
                   Jiangming Shi, <b><i>Xiangbo Yin</i></b>, Yeyun Chen, Yachao Zhang, Zhizhong Zhang ,Yuan Xie†, Yanyun Qu†
                   <br>
